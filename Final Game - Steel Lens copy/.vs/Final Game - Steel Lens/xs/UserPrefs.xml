@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{703C4729-B1C9-42C0-03A6-202D2BF397D6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayMove.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayMove.cs" Line="19" Column="18" />
+      <File FileName="Assets/Scripts/Camera_Follow.cs" Line="19" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Final Game - Steel Lens" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5dab1354-e2d1-49b9-90df-91967cb47dfb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
